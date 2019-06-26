@@ -247,6 +247,7 @@ Transform:
   m_Children:
   - {fileID: 557752172}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 17
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -90.552}
 --- !u!1 &48247000
@@ -279,6 +280,10 @@ Transform:
   m_Father: {fileID: 178548973}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+=======
+  m_RootOrder: 18
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -90.552}
+>>>>>>> Initial commit
 --- !u!1 &57527696
 GameObject:
   m_ObjectHideFlags: 0
@@ -470,7 +475,11 @@ Transform:
   m_Children:
   - {fileID: 1245431727}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 16
+=======
+  m_RootOrder: 17
+>>>>>>> Initial commit
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -89.921005}
 --- !u!1 &133061518
 GameObject:
@@ -502,6 +511,7 @@ Transform:
   m_Father: {fileID: 787260785}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!1 &141626810
 GameObject:
   m_ObjectHideFlags: 0
@@ -631,6 +641,8 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+=======
+>>>>>>> Initial commit
 --- !u!1 &157857732
 GameObject:
   m_ObjectHideFlags: 0
@@ -661,6 +673,7 @@ Transform:
   m_Father: {fileID: 568194636}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!1 &178548972
 GameObject:
   m_ObjectHideFlags: 0
@@ -790,6 +803,8 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+=======
+>>>>>>> Initial commit
 --- !u!1 &285087787
 GameObject:
   m_ObjectHideFlags: 0
@@ -917,7 +932,11 @@ Transform:
   m_Children:
   - {fileID: 1100998234}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 21
+=======
+  m_RootOrder: 22
+>>>>>>> Initial commit
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -1.1780001}
 --- !u!1 &290570040
 GameObject:
@@ -933,9 +952,16 @@ GameObject:
   - component: {fileID: 290570045}
   - component: {fileID: 290570044}
   - component: {fileID: 290570046}
+<<<<<<< HEAD
   m_Layer: 0
   m_Name: player-run-1
   m_TagString: Untagged
+=======
+  - component: {fileID: 290570047}
+  m_Layer: 0
+  m_Name: player-run-1
+  m_TagString: Player
+>>>>>>> Initial commit
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1082,6 +1108,21 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   alturaSalto: 8
   velocidadMovimiento: 5
+<<<<<<< HEAD
+=======
+--- !u!114 &290570047
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 290570040}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48e25664a68edcf4b9284d4415e4d4ad, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+>>>>>>> Initial commit
 --- !u!1 &305172224
 GameObject:
   m_ObjectHideFlags: 0
@@ -1322,7 +1363,11 @@ Transform:
   m_Children:
   - {fileID: 1385146578}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 40
+=======
+  m_RootOrder: 41
+>>>>>>> Initial commit
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 49.129}
 --- !u!1 &377404786
 GameObject:
@@ -1451,7 +1496,11 @@ Transform:
   m_Children:
   - {fileID: 1537592978}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 11
+=======
+  m_RootOrder: 12
+>>>>>>> Initial commit
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -26.662}
 --- !u!1 &391085671
 GameObject:
@@ -1587,7 +1636,11 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 3fc2bbd409bf34ab6af1637bab569da1, type: 3}
+<<<<<<< HEAD
   m_Color: {r: 0.9843137, g: 0.9529412, b: 0.03137255, a: 1}
+=======
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+>>>>>>> Initial commit
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -1605,12 +1658,21 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 416632515}
   m_LocalRotation: {x: -0, y: 0, z: -0.70538104, w: 0.7088284}
+<<<<<<< HEAD
   m_LocalPosition: {x: 3.473, y: 4.365, z: 0}
   m_LocalScale: {x: 1.8173476, y: 0.45673954, z: 0.654757}
   m_Children:
   - {fileID: 1853187288}
   m_Father: {fileID: 0}
   m_RootOrder: 37
+=======
+  m_LocalPosition: {x: 3.152, y: 4.287, z: 0}
+  m_LocalScale: {x: 2.5273805, y: 0.7605977, z: 0.9353672}
+  m_Children:
+  - {fileID: 1853187288}
+  m_Father: {fileID: 0}
+  m_RootOrder: 38
+>>>>>>> Initial commit
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -89.721}
 --- !u!1 &417545782
 GameObject:
@@ -1867,7 +1929,11 @@ Transform:
   m_Children:
   - {fileID: 59553195}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 18
+=======
+  m_RootOrder: 19
+>>>>>>> Initial commit
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -0.075}
 --- !u!1 &463585356
 GameObject:
@@ -1900,7 +1966,10 @@ Transform:
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> Initial commit
 --- !u!1 &534370481
 GameObject:
   m_ObjectHideFlags: 0
@@ -2027,9 +2096,14 @@ Transform:
   m_LocalScale: {x: 4.7269044, y: 4.7269044, z: 1.575635}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 41
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 >>>>>>> Update commit
+=======
+  m_RootOrder: 42
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+>>>>>>> Initial commit
 --- !u!1 &557752171
 GameObject:
   m_ObjectHideFlags: 0
@@ -2187,7 +2261,11 @@ Transform:
   m_Children:
   - {fileID: 157857733}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 14
+=======
+  m_RootOrder: 15
+>>>>>>> Initial commit
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0.023000002}
 --- !u!1 &602622534
 GameObject:
@@ -2202,6 +2280,10 @@ GameObject:
   - component: {fileID: 602622537}
   - component: {fileID: 602622536}
   - component: {fileID: 602622535}
+<<<<<<< HEAD
+=======
+  - component: {fileID: 602622540}
+>>>>>>> Initial commit
   m_Layer: 0
   m_Name: eagle-attack-1
   m_TagString: Untagged
@@ -2333,6 +2415,7 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!1 &646094009
 GameObject:
   m_ObjectHideFlags: 0
@@ -2351,10 +2434,15 @@ GameObject:
   m_IsActive: 1
 --- !u!4 &646094010
 Transform:
+=======
+--- !u!114 &602622540
+MonoBehaviour:
+>>>>>>> Initial commit
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 646094009}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
@@ -2364,6 +2452,15 @@ Transform:
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &653019655
+=======
+  m_GameObject: {fileID: 602622534}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48e25664a68edcf4b9284d4415e4d4ad, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!1 &646094009
+>>>>>>> Initial commit
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -2371,7 +2468,11 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< HEAD
   - component: {fileID: 653019656}
+=======
+  - component: {fileID: 646094010}
+>>>>>>> Initial commit
   m_Layer: 0
   m_Name: GameObject
   m_TagString: Untagged
@@ -2379,6 +2480,7 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< HEAD
 --- !u!4 &653019656
 Transform:
   m_ObjectHideFlags: 0
@@ -2451,10 +2553,29 @@ CircleCollider2D:
   m_Radius: 0.16
 --- !u!212 &656767782
 SpriteRenderer:
+=======
+--- !u!4 &646094010
+Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 646094009}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1440250372}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &653019655
+GameObject:
+>>>>>>> Initial commit
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 656767779}
   m_Enabled: 1
   m_CastShadows: 0
@@ -2498,11 +2619,25 @@ SpriteRenderer:
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &656767783
+=======
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 653019656}
+  m_Layer: 0
+  m_Name: GameObject
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &653019656
+>>>>>>> Initial commit
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 656767779}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0.9, y: -1.04, z: 0}
@@ -2510,6 +2645,15 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 45
+=======
+  m_GameObject: {fileID: 653019655}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1454581293}
+  m_RootOrder: 0
+>>>>>>> Initial commit
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &677438629
 GameObject:
@@ -2638,7 +2782,11 @@ Transform:
   m_Children:
   - {fileID: 1375315654}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 15
+=======
+  m_RootOrder: 16
+>>>>>>> Initial commit
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -162.68001}
 --- !u!1 &694208237
 GameObject:
@@ -2767,7 +2915,11 @@ Transform:
   m_Children:
   - {fileID: 1162825482}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 26
+=======
+  m_RootOrder: 27
+>>>>>>> Initial commit
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &706392048
 GameObject:
@@ -2896,7 +3048,11 @@ Transform:
   m_Children:
   - {fileID: 1703924276}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 23
+=======
+  m_RootOrder: 24
+>>>>>>> Initial commit
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &727049973
 GameObject:
@@ -3005,7 +3161,10 @@ BoxCollider2D:
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> Initial commit
 --- !u!1 &730318714
 GameObject:
   m_ObjectHideFlags: 0
@@ -3132,9 +3291,14 @@ Transform:
   m_LocalScale: {x: 4.7269044, y: 4.7269044, z: 1.575635}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 42
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 >>>>>>> Update commit
+=======
+  m_RootOrder: 43
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+>>>>>>> Initial commit
 --- !u!1 &762248927
 GameObject:
   m_ObjectHideFlags: 0
@@ -3410,7 +3574,11 @@ Transform:
   m_Children:
   - {fileID: 133061519}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 33
+=======
+  m_RootOrder: 34
+>>>>>>> Initial commit
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -1.1780001}
 --- !u!1 &790815400
 GameObject:
@@ -3539,7 +3707,11 @@ Transform:
   m_Children:
   - {fileID: 1624841869}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 27
+=======
+  m_RootOrder: 28
+>>>>>>> Initial commit
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &854105542
 GameObject:
@@ -3668,7 +3840,11 @@ Transform:
   m_Children:
   - {fileID: 1564125513}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 12
+=======
+  m_RootOrder: 13
+>>>>>>> Initial commit
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &906117996
 GameObject:
@@ -3774,7 +3950,11 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 3fc2bbd409bf34ab6af1637bab569da1, type: 3}
+<<<<<<< HEAD
   m_Color: {r: 0.9843137, g: 0.9529412, b: 0.03137255, a: 0.88235295}
+=======
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+>>>>>>> Initial commit
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -3791,6 +3971,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 906117996}
+<<<<<<< HEAD
   m_LocalRotation: {x: -0, y: -0, z: 0.5394787, w: -0.8419993}
   m_LocalPosition: {x: 3.279, y: 4.529, z: 0}
   m_LocalScale: {x: 2.8367546, y: 0.5658006, z: 0.654757}
@@ -3799,6 +3980,134 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 35
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -65.296005}
+=======
+  m_LocalRotation: {x: -0, y: -0, z: 0.51391953, w: -0.85783845}
+  m_LocalPosition: {x: 2.87, y: 4.42, z: 0}
+  m_LocalScale: {x: 4.0525064, y: 0.8082866, z: 0.9353672}
+  m_Children:
+  - {fileID: 331338135}
+  m_Father: {fileID: 0}
+  m_RootOrder: 36
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -61.851}
+--- !u!1 &908243969
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 908243973}
+  - component: {fileID: 908243972}
+  - component: {fileID: 908243971}
+  - component: {fileID: 908243970}
+  m_Layer: 0
+  m_Name: item-feedback-2 (12)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!50 &908243970
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 908243969}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
+--- !u!58 &908243971
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 908243969}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 6200000, guid: e6964dfbad938034f8e31e5f5130fbe5, type: 2}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.16
+--- !u!212 &908243972
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 908243969}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 21300000, guid: d01b0b4f13e044d0c83c424e542ddcbf, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 0.32, y: 0.32}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!4 &908243973
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 908243969}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1.44, y: 0.96, z: 0}
+  m_LocalScale: {x: 2.088, y: 2.088, z: 0.522}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 9
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+>>>>>>> Initial commit
 --- !u!1 &910212922
 GameObject:
   m_ObjectHideFlags: 0
@@ -3986,7 +4295,11 @@ Transform:
   m_Children:
   - {fileID: 1032547141}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 25
+=======
+  m_RootOrder: 26
+>>>>>>> Initial commit
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1032547140
 GameObject:
@@ -4175,7 +4488,11 @@ Transform:
   m_Children:
   - {fileID: 463585357}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 22
+=======
+  m_RootOrder: 23
+>>>>>>> Initial commit
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -91.341}
 --- !u!1 &1127687433
 GameObject:
@@ -4410,7 +4727,11 @@ Transform:
   m_Children:
   - {fileID: 1555871200}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 13
+=======
+  m_RootOrder: 14
+>>>>>>> Initial commit
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0.462}
 --- !u!1 &1159158294
 GameObject:
@@ -4705,6 +5026,7 @@ Transform:
   m_Children:
   - {fileID: 1930324051}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 39
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -0.009000001}
 --- !u!1 &1204155305
@@ -4737,6 +5059,10 @@ Transform:
   m_Father: {fileID: 141626811}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+=======
+  m_RootOrder: 40
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -0.009000001}
+>>>>>>> Initial commit
 --- !u!1 &1245431726
 GameObject:
   m_ObjectHideFlags: 0
@@ -4894,7 +5220,11 @@ Transform:
   m_Children:
   - {fileID: 1319731149}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 32
+=======
+  m_RootOrder: 33
+>>>>>>> Initial commit
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -91.341}
 --- !u!1 &1283911682
 GameObject:
@@ -5023,7 +5353,11 @@ Transform:
   m_Children:
   - {fileID: 1360336614}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 30
+=======
+  m_RootOrder: 31
+>>>>>>> Initial commit
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 42.187}
 --- !u!1 &1285177360
 GameObject:
@@ -5506,7 +5840,11 @@ Transform:
   m_Children:
   - {fileID: 1161475650}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 10
+=======
+  m_RootOrder: 11
+>>>>>>> Initial commit
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -47.596}
 --- !u!1 &1440250368
 GameObject:
@@ -5635,7 +5973,11 @@ Transform:
   m_Children:
   - {fileID: 646094010}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 19
+=======
+  m_RootOrder: 20
+>>>>>>> Initial commit
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -81.757}
 --- !u!1 &1454581289
 GameObject:
@@ -5764,7 +6106,11 @@ Transform:
   m_Children:
   - {fileID: 653019656}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 9
+=======
+  m_RootOrder: 10
+>>>>>>> Initial commit
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1485089614
 GameObject:
@@ -5825,7 +6171,11 @@ BoxCollider2D:
     pivot: {x: 0.5, y: 0.5}
     oldSize: {x: 0.32, y: 0.32}
     newSize: {x: 0.32, y: 0.32}
+<<<<<<< HEAD
     adaptiveTilingThreshold: 0.748
+=======
+    adaptiveTilingThreshold: 0.5
+>>>>>>> Initial commit
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
@@ -5870,12 +6220,20 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 3fc2bbd409bf34ab6af1637bab569da1, type: 3}
+<<<<<<< HEAD
   m_Color: {r: 0.9843137, g: 0.9529412, b: 0.03137255, a: 1}
+=======
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+>>>>>>> Initial commit
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
   m_Size: {x: 0.32, y: 0.32}
+<<<<<<< HEAD
   m_AdaptiveModeThreshold: 0.748
+=======
+  m_AdaptiveModeThreshold: 0.5
+>>>>>>> Initial commit
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
@@ -5888,12 +6246,21 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1485089614}
   m_LocalRotation: {x: -0, y: -0, z: 0.29649514, w: -0.9550344}
+<<<<<<< HEAD
   m_LocalPosition: {x: 3.279, y: 4.213, z: 0}
   m_LocalScale: {x: 1.8258818, y: -0.42290917, z: 0.654757}
   m_Children:
   - {fileID: 1994199861}
   m_Father: {fileID: 0}
   m_RootOrder: 36
+=======
+  m_LocalPosition: {x: 2.8085, y: 4.1395, z: 0}
+  m_LocalScale: {x: 2.5273805, y: 0.7605977, z: 0.9353672}
+  m_Children:
+  - {fileID: 1994199861}
+  m_Father: {fileID: 0}
+  m_RootOrder: 37
+>>>>>>> Initial commit
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -34.494003}
 --- !u!1 &1537592977
 GameObject:
@@ -6112,7 +6479,11 @@ Transform:
   m_Children:
   - {fileID: 973536438}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 29
+=======
+  m_RootOrder: 30
+>>>>>>> Initial commit
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1624841868
 GameObject:
@@ -6219,7 +6590,11 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1636267678}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+<<<<<<< HEAD
   m_LocalPosition: {x: 14.75, y: 9.36, z: 0}
+=======
+  m_LocalPosition: {x: 8.55, y: -1.16, z: 0}
+>>>>>>> Initial commit
   m_LocalScale: {x: 4, y: 4, z: 0}
   m_Children: []
   m_Father: {fileID: 0}
@@ -6245,7 +6620,11 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
+<<<<<<< HEAD
   m_Constraints: 3
+=======
+  m_Constraints: 7
+>>>>>>> Initial commit
 --- !u!68 &1636267682
 EdgeCollider2D:
   m_ObjectHideFlags: 0
@@ -6456,10 +6835,15 @@ Transform:
   m_Children:
   - {fileID: 2011505001}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 28
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
 =======
+=======
+  m_RootOrder: 29
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+>>>>>>> Initial commit
 --- !u!1 &1823346064
 GameObject:
   m_ObjectHideFlags: 0
@@ -6586,9 +6970,14 @@ Transform:
   m_LocalScale: {x: 4.7269044, y: 4.7269044, z: 1.575635}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 44
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 >>>>>>> Update commit
+=======
+  m_RootOrder: 45
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+>>>>>>> Initial commit
 --- !u!1 &1853187287
 GameObject:
   m_ObjectHideFlags: 0
@@ -6746,7 +7135,11 @@ Transform:
   m_Children:
   - {fileID: 1728190527}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 24
+=======
+  m_RootOrder: 25
+>>>>>>> Initial commit
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1930324050
 GameObject:
@@ -6905,7 +7298,11 @@ Transform:
   m_Children:
   - {fileID: 910212923}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 38
+=======
+  m_RootOrder: 39
+>>>>>>> Initial commit
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -158.17401}
 --- !u!1 &1982272935
 GameObject:
@@ -7124,7 +7521,11 @@ Transform:
   m_Children:
   - {fileID: 391085672}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 20
+=======
+  m_RootOrder: 21
+>>>>>>> Initial commit
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -0.009000001}
 --- !u!1 &2079341765
 GameObject:
@@ -7253,7 +7654,11 @@ Transform:
   m_Children:
   - {fileID: 1982272936}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 34
+=======
+  m_RootOrder: 35
+>>>>>>> Initial commit
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -91.341}
 --- !u!1 &2090813287
 GameObject:
@@ -7460,10 +7865,15 @@ Transform:
   m_LocalScale: {x: 11.267309, y: 1.064, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 31
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
 =======
+=======
+  m_RootOrder: 32
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+>>>>>>> Initial commit
 --- !u!1 &2135164747
 GameObject:
   m_ObjectHideFlags: 0
@@ -7590,6 +8000,11 @@ Transform:
   m_LocalScale: {x: 4.7269044, y: 4.7269044, z: 1.575635}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 43
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 >>>>>>> Update commit
+=======
+  m_RootOrder: 44
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+>>>>>>> Initial commit
