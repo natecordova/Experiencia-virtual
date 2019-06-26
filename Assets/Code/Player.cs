@@ -49,7 +49,11 @@ public class Player : MonoBehaviour
     {
         var otherObject = collision.collider.gameObject;
 <<<<<<< HEAD
+<<<<<<< HEAD
         if (otherObject.tag == "Magnifier")
+=======
+        if (otherObject.tag == "Player")
+>>>>>>> Initial commit
 =======
         if (otherObject.tag == "Player")
 >>>>>>> Initial commit
