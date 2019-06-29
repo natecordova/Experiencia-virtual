@@ -20,15 +20,7 @@ public class EvilCube : MonoBehaviour
     {
         //Debug.Log($"Collision with: {collision.collider.gameObject.tag}");
         var otherObject = collision.collider.gameObject;
-<<<<<<< HEAD
-<<<<<<< HEAD
-        if (otherObject.tag == "Player")
-=======
         if (otherObject.tag == "evil")
->>>>>>> Initial commit
-=======
-        if (otherObject.tag == "evil")
->>>>>>> Initial commit
         {
             GameObject.Destroy(otherObject);
         }

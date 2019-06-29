@@ -48,15 +48,7 @@ public class Player : MonoBehaviour
     private void OnCollisionEnter2D(Collision2D collision)
     {
         var otherObject = collision.collider.gameObject;
-<<<<<<< HEAD
-<<<<<<< HEAD
-        if (otherObject.tag == "Magnifier")
-=======
         if (otherObject.tag == "Player")
->>>>>>> Initial commit
-=======
-        if (otherObject.tag == "Player")
->>>>>>> Initial commit
         {
             var scale = this.transform.localScale;
             scale.y *= 2;
