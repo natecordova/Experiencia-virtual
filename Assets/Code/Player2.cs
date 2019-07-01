@@ -30,7 +30,7 @@ public class Player2 : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.UpArrow))
+        if (Input.GetKeyDown(KeyCode.Space))  //Salta
         { // y-axis movement
             body.velocity += jumpSpeed * Vector2.up;
         }
@@ -38,11 +38,11 @@ public class Player2 : MonoBehaviour
         { // x-axis movement
             var v = body.velocity;
             var speed = 0f;
-            if (Input.GetKey(KeyCode.LeftArrow))
+            if (Input.GetKey(KeyCode.A))  //Izquierda
             {
                 speed += -walkingSpeed;
             }
-            if (Input.GetKey(KeyCode.RightArrow))
+            if (Input.GetKey(KeyCode.D))    //Derecha
             {
                 speed += walkingSpeed;
             }
@@ -63,4 +63,5 @@ public class Player2 : MonoBehaviour
             anim.SetFloat("Speed", Mathf.Abs(speed));
         }
     }
+
 }

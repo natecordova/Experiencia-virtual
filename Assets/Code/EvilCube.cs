@@ -23,6 +23,7 @@ public class EvilCube : MonoBehaviour
         if (otherObject.tag == "evil")
         {
             GameObject.Destroy(otherObject);
+           
         }
     }
 }
